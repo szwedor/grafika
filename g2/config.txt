@@ -1,0 +1,82 @@
+sphere
+position 10 16 -3
+scale 3 3 3
+color 0.5 0.9 0.14
+end
+m/toys/toybear.obj
+scale 0.03 0.03 0.03
+end
+m/toys/toybunny.obj
+position -14 0 4
+scale 0.01 0.01 0.01
+rotation 0 1 0 0.785
+end
+m/toys/toypenguin.obj
+position 8 0 0
+scale 0.03 0.03 0.03
+rotation 0 1 0 -0.785
+end
+m/toys/toypenguin.obj
+position 8 7 0
+scale 0.03 0.03 0.03
+rotation 1 0 0 -0.785
+end
+m/toys/toypenguin.obj
+position 8 0 4
+scale 0.03 0.03 0.03
+rotation 0 1 0 0.785
+end
+m/toys/toypenguin.obj
+position 8 0 -4
+scale 0.03 0.03 0.03
+rotation 0 1 0 -1.5
+end
+m/earth/earth.obj
+position 0 0 6
+scale 0.01 0.01 0.01
+end
+sphere
+position 0 20 0
+scale 10 10 10
+color 1 1 1
+end
+sphere
+position 7 15 4
+scale 5 5 5
+color 0.14 0 0.66
+end
+cylinder
+position -6.5 15 5
+scale 1 1 1
+color 1 0.51 0
+end
+cylinder
+position -2 12.0 4
+scale 1 1 1
+color 0.65 0 0.14
+rotation 0 1 0 -0.78
+end
+cylinder
+position 4 14 3
+scale 1 4 1
+color 1 0.33 0
+rotation 0 1 0 -0.78
+end
+m/ship/Sample_Ship.obj
+position 5 5 5
+end
+cylinder
+position 4 14 3
+scale 0.002 40 0.002
+color 1 0.33 0
+rotation 0 1 0 -0.78
+end
+mirror
+position 0 1 20
+end
+cylinder
+position 0 1 25
+end
+screen
+position 0 1 -10
+end

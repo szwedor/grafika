@@ -1,0 +1,5 @@
+m/dragon.obj
+position 4 -2 0 
+scale 0.3 0.3 0.3
+color 1 1 1
+end
